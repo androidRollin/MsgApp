@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.MsgApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/dark_gray</item>
+        <item name="colorPrimary">#697CFF</item>
         <item name="colorPrimaryVariant">@color/dark_gray_green</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
